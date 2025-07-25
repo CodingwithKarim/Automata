@@ -86,9 +86,8 @@ All interactions are scoped to visible UI components and carefully timed to resp
 
 ## ⚠️ Disclaimer
 
-This tool is designed for **educational, personal, or internal use** only.  
-Use responsibly and respect the platform’s terms of service.  
-The author is not responsible for misuse or unintended consequences.
-The platform this was built on already supports scheduled posts, however this can be used as a framework to interact with future web services in a **harmless** and **respectfull** way. 
-
+- This tool is designed for **educational, personal, or internal use** only.
+- Use responsibly and respect the platform’s terms of service.
+- The author is not responsible for misuse or unintended consequences.
+- The platform this was built on already supports scheduled posts, however this can be used as a framework to interact with future web services in a **harmless** and **respectfull** way.
 ---
