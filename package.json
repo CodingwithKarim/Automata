@@ -6,7 +6,7 @@
   "main": "src/scheduler.ts",
   "scripts": {
     "cron": "npx ts-node src/scheduler.ts",
-    "test": "npx ts-node src/jobs/runPastDue.ts"
+    "past-due": "npx ts-node src/jobs/runPastDue.ts"
   },
   "author": "",
   "license": "ISC",

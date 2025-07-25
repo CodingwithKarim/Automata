@@ -77,7 +77,7 @@ async function clickMakePostButton(page: Page): Promise<void> {
 
     await moreButton.click();
 
-    await page.waitForTimeout(500)
+    await page.waitForTimeout(1000)
 
     const addDocumentButton = page.locator("button[aria-label='Add a document']")
 
@@ -95,7 +95,7 @@ async function clickMakePostButton(page: Page): Promise<void> {
         delay: 75
     });
 
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(1000);
 
     const doneButton = page.locator("button[aria-label='Done']")
     await doneButton.click();
