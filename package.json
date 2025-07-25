@@ -1,0 +1,23 @@
+{
+  "name": "automata",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "A small Playwright script",
+  "main": "src/scheduler.ts",
+  "scripts": {
+    "cron": "npx ts-node src/scheduler.ts",
+    "test": "npx ts-node src/jobs/runPastDue.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-cron": "^4.2.1",
+    "playwright": "^1.54.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

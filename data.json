@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "content": "Hello everyone",
+      "media": [
+      ],
+      "pdf": {
+        "title": "",
+        "path": ""
+      },
+      "scheduleAt": "2025-07-25T000:38:00-04:00",
+      "status": "sent",
+      "profile": "profile"
+    }
+  ]
+}
