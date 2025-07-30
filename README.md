@@ -72,22 +72,21 @@ npm run cron
 
 ## 🧩 How It Works
 
-AutoPostBot launches a real browser, signs into your account, and mimics how a user would:
+Automata launches a real browser, signs into your account, and mimics how a user would:
 
 - Click “Start a post”
 - Fill in text
 - Upload optional files (images or documents)
 - Submit the post
 
-All interactions are scoped to visible UI components and carefully timed to respect dynamic rendering delays. We do not want to act like a typical bot.
+All interactions are scoped to visible UI components and carefully timed to respect dynamic rendering delays. We do not want to act like one of those malicious bots.
 
 ---
-
 
 ## ⚠️ Disclaimer
 
 - This tool is designed for **educational, personal, or internal use** only.
-- Use responsibly and respect the platform’s terms of service.
+- Use responsibly and respect the any platform’s terms of service.
 - The author is not responsible for misuse or unintended consequences.
-- The platform this was built on already supports scheduled posts, however this can be used as a framework to interact with future web services in a **harmless** and **respectfull** way.
+- The platform this was built on already supports scheduled posts, however this can be used as a framework to automate future interactions with web services in a **harmless** and **respectfull** way.
 ---
